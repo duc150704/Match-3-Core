@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9af3e42f2cc6cf428116b36d67ffe46, type: 3}
+  m_Name: Diamond Database
+  m_EditorClassIdentifier: Assembly-CSharp::DiamondDataBaseSO
+  _data:
+  - {fileID: 11400000, guid: 9175c8929f9789240948350675cb6309, type: 2}
+  - {fileID: 11400000, guid: 57af414167db34c419afd28de5680033, type: 2}
+  - {fileID: 11400000, guid: c2cebe9041fd00b4c875cb56a6f6d603, type: 2}
+  - {fileID: 11400000, guid: 9ae5a3715350eb04693e625057925659, type: 2}
